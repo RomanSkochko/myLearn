@@ -1,5 +1,3 @@
 Hello World
 
 git gui test
-
-this line will be deleted with git revert
