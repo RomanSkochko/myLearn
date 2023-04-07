@@ -5,3 +5,6 @@ git gui test
 git merge test
 
 merged
+
+git reserve branch text
+
