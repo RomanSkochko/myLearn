@@ -3,3 +3,5 @@ Hello World
 git gui test
 
 git merge test
+
+merged
